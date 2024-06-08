@@ -1,3 +1,4 @@
+/**
  * Vraag 3
  * Vraag een getal aan de gebruiker en beeld in de console een aantal regels af met hartjes (♥),
  * zoals in onderstaand voorbeeld.
