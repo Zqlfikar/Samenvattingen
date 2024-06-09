@@ -1,5 +1,6 @@
 'use strict';
 
+const input = prompt('Blad. steen of schaar?:').toLowerCase();
 
 const random = Math.random(0,1);
 let resComputer;
